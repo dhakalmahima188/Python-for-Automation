@@ -1,0 +1,1 @@
+#use terminal to print date and time
